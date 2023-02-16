@@ -1,7 +1,7 @@
 :root {
-  --dark-color: #171717;
-  --secondary-color: #3c948b;
-  --offwhite-color: #f4f4f4;
+  --dark-color: #123C69;
+  --secondary-color: #EDC7B7;
+  --offwhite-color: #fae5df;
 }
 
 * {
@@ -12,6 +12,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #EEE2DC;
 }
 
 img {
